@@ -26,6 +26,6 @@ public class HolaChicos {
     
     @Override
     public String toString (){
-        return "Hoy saludó:" + unsaludo;
+        return unsaludo;
     }
 }
